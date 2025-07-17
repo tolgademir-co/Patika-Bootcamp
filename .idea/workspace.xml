@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="düzenlendi.">
-      <change afterPath="$PROJECT_DIR$/src/week1/Bölme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/Toplama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/Çıkarma.java" afterDir="false" />
+    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="yeni ödevler eklendi.">
+      <change afterPath="$PROJECT_DIR$/src/week1/UçakBiletiFiyatHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,9 @@
     "Application.ManavHesaplama.executor": "Run",
     "Application.ManavKasaProgramı.executor": "Run",
     "Application.Toplama.executor": "Run",
+    "Application.UçakBiletiFiyatHesaplama.executor": "Run",
     "Application.VucutKitleIndeksi.executor": "Run",
+    "Application.Çarpma.executor": "Run",
     "Application.Çıkarma.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,7 +70,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Çarpma">
+  <component name="RunManager" selected="Application.UçakBiletiFiyatHesaplama">
     <configuration name="Bölme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.Bölme" />
       <module name="Patika-Bootcamp" />
@@ -84,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManavKasaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.ManavKasaProgramı" />
+    <configuration name="Toplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.Toplama" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Toplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Toplama" />
+    <configuration name="UçakBiletiFiyatHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.UçakBiletiFiyatHesaplama" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UçakBiletiFiyatHesaplama" />
         <item itemvalue="Application.Çarpma" />
         <item itemvalue="Application.Bölme" />
         <item itemvalue="Application.Çıkarma" />
         <item itemvalue="Application.Toplama" />
-        <item itemvalue="Application.ManavKasaProgramı" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752763631545</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="yeni ödevler eklendi.">
+      <option name="closed" value="true" />
+      <created>1752769338479</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752769338480</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +211,7 @@
     <MESSAGE value="week2 oluşturuldu." />
     <MESSAGE value="hafta 1 ödevleri yapıldı." />
     <MESSAGE value="düzenlendi." />
-    <option name="LAST_COMMIT_MESSAGE" value="düzenlendi." />
+    <MESSAGE value="yeni ödevler eklendi." />
+    <option name="LAST_COMMIT_MESSAGE" value="yeni ödevler eklendi." />
   </component>
 </project>
