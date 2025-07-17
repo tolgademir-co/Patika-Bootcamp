@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="week2 oluşturuldu.">
-      <change afterPath="$PROJECT_DIR$/src/week1/ManavKasaProgramı.java" afterDir="false" />
+    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="düzenlendi.">
+      <change afterPath="$PROJECT_DIR$/src/week1/Bölme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week1/Toplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week1/Çıkarma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/ManavHesaplama.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/VucutKitleIndeksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/VucutKitleIndeksi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/GeçerliŞifreKontrolü.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +47,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Bölme.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ManavHesaplama.executor": "Run",
     "Application.ManavKasaProgramı.executor": "Run",
+    "Application.Toplama.executor": "Run",
     "Application.VucutKitleIndeksi.executor": "Run",
+    "Application.Çıkarma.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -68,9 +70,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ManavKasaProgramı">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Main" />
+  <component name="RunManager" selected="Application.Çarpma">
+    <configuration name="Bölme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.Bölme" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -78,14 +80,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManavHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ManavHesaplama" />
-      <module name="Patika-Bootcamp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,8 +97,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VucutKitleIndeksi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.VucutKitleIndeksi" />
+    <configuration name="Toplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.Toplama" />
+      <module name="Patika-Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Çarpma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.Çarpma" />
+      <module name="Patika-Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Çıkarma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.Çıkarma" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -118,10 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Çarpma" />
+        <item itemvalue="Application.Bölme" />
+        <item itemvalue="Application.Çıkarma" />
+        <item itemvalue="Application.Toplama" />
         <item itemvalue="Application.ManavKasaProgramı" />
-        <item itemvalue="Application.VucutKitleIndeksi" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ManavHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -157,13 +178,31 @@
       <option name="project" value="LOCAL" />
       <updated>1752751685132</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hafta 1 ödevleri yapıldı.">
+      <option name="closed" value="true" />
+      <created>1752763494413</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752763494413</updated>
+    </task>
+    <task id="LOCAL-00005" summary="düzenlendi.">
+      <option name="closed" value="true" />
+      <created>1752763631545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752763631545</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bu projenin ilk adımıydı." />
     <MESSAGE value="boş class oluşturuldu." />
     <MESSAGE value="week2 oluşturuldu." />
-    <option name="LAST_COMMIT_MESSAGE" value="week2 oluşturuldu." />
+    <MESSAGE value="hafta 1 ödevleri yapıldı." />
+    <MESSAGE value="düzenlendi." />
+    <option name="LAST_COMMIT_MESSAGE" value="düzenlendi." />
   </component>
 </project>
