@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="boş class oluşturuldu.">
-      <change afterPath="$PROJECT_DIR$/src/week1/ManavHesaplama.java" afterDir="false" />
+    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="week2 oluşturuldu.">
+      <change afterPath="$PROJECT_DIR$/src/week1/ManavKasaProgramı.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/ManavHesaplama.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/VucutKitleIndeksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/VucutKitleIndeksi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/GeçerliŞifreKontrolü.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tolgademir-co"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tolgademir-co&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tolgademir-co/Patika-Bootcamp.git",
-    "accountId": "cd485412-4242-4d18-ad81-a5ce3cce8fbe"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tolgademir-co/Patika-Bootcamp.git&quot;,
+    &quot;accountId&quot;: &quot;cd485412-4242-4d18-ad81-a5ce3cce8fbe&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3002g0NzCVnFvokArGA227LnLjo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,6 +48,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.ManavHesaplama.executor": "Run",
+    "Application.ManavKasaProgramı.executor": "Run",
+    "Application.VucutKitleIndeksi.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -53,8 +61,70 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="Application.ManavKasaProgramı">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.Main" />
+      <module name="Patika-Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManavHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ManavHesaplama" />
+      <module name="Patika-Bootcamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManavKasaProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.ManavKasaProgramı" />
+      <module name="Patika-Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VucutKitleIndeksi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.VucutKitleIndeksi" />
+      <module name="Patika-Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ManavKasaProgramı" />
+        <item itemvalue="Application.VucutKitleIndeksi" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ManavHesaplama" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="" />
@@ -79,12 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1752751170061</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="week2 oluşturuldu.">
+      <option name="closed" value="true" />
+      <created>1752751685132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752751685132</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bu projenin ilk adımıydı." />
     <MESSAGE value="boş class oluşturuldu." />
-    <option name="LAST_COMMIT_MESSAGE" value="boş class oluşturuldu." />
+    <MESSAGE value="week2 oluşturuldu." />
+    <option name="LAST_COMMIT_MESSAGE" value="week2 oluşturuldu." />
   </component>
 </project>
