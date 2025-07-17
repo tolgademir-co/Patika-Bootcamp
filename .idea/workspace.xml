@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="yeni ödevler eklendi.">
-      <change afterPath="$PROJECT_DIR$/src/week1/UçakBiletiFiyatHesaplama.java" afterDir="false" />
+    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="UçakBiletiFiyatHesaplama.java yeni eklendi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/UçakBiletiFiyatHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/UcakBiletiFiyatHesaplama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     "Application.ManavHesaplama.executor": "Run",
     "Application.ManavKasaProgramı.executor": "Run",
     "Application.Toplama.executor": "Run",
+    "Application.UcakBiletiFiyatHesaplama.executor": "Run",
     "Application.UçakBiletiFiyatHesaplama.executor": "Run",
     "Application.VucutKitleIndeksi.executor": "Run",
     "Application.Çarpma.executor": "Run",
@@ -70,7 +71,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UçakBiletiFiyatHesaplama">
+  <component name="RunManager" selected="Application.UcakBiletiFiyatHesaplama">
     <configuration name="Bölme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.Bölme" />
       <module name="Patika-Bootcamp" />
@@ -97,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UçakBiletiFiyatHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.UçakBiletiFiyatHesaplama" />
+    <configuration name="UcakBiletiFiyatHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.UcakBiletiFiyatHesaplama" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -138,7 +139,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UçakBiletiFiyatHesaplama" />
+        <item itemvalue="Application.UcakBiletiFiyatHesaplama" />
         <item itemvalue="Application.Çarpma" />
         <item itemvalue="Application.Bölme" />
         <item itemvalue="Application.Çıkarma" />
@@ -202,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752769338480</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="UçakBiletiFiyatHesaplama.java yeni eklendi">
+      <option name="closed" value="true" />
+      <created>1752787691085</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752787691085</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,6 +221,7 @@
     <MESSAGE value="hafta 1 ödevleri yapıldı." />
     <MESSAGE value="düzenlendi." />
     <MESSAGE value="yeni ödevler eklendi." />
-    <option name="LAST_COMMIT_MESSAGE" value="yeni ödevler eklendi." />
+    <MESSAGE value="UçakBiletiFiyatHesaplama.java yeni eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="UçakBiletiFiyatHesaplama.java yeni eklendi" />
   </component>
 </project>
