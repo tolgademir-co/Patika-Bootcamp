@@ -2,18 +2,16 @@ package week1;
 
 import java.util.Scanner;
 
-public class ManavKasaProgramı {
+public class ManavKasaProgrami {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
 
         double Armut = 2.14;
         double Elma = 3.67;
         double Domates = 1.11;
         double Muz = 0.95;
         double Patlıcan = 5.00;
-
 
         System.out.println("Armut Kaç Kilo?");
         double armutKG = input.nextDouble();

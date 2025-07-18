@@ -21,12 +21,12 @@ public class UcakBiletiFiyatHesaplama {
             tip = input.nextInt();
 
             if (km > 0 && yas > 0 && (tip == 1 || tip == 2)) {
-                break; // Geçerli veri
+                break; // Geçerli veri && Döngüden çık
             } else {
                 System.out.println("Hatalı veri girdiniz! Tekrar deneyin.\n");
             }
         }
-
+        //Ekran Çıktısı.
         double toplamFiyat = calculatePrice(km, yas, tip);
 
         System.out.println("\n----- Bilet Özeti -----");
@@ -42,14 +42,15 @@ public class UcakBiletiFiyatHesaplama {
         double birimFiyat = 0.10;
         double toplamFiyat = km * birimFiyat;
 
+        //Yaş İndirimi.
         if (yas < 12) {
-            toplamFiyat *= 0.5;
+            toplamFiyat *= 0.5; // %50 İndirim Uygulandı.
         } else if (yas <= 24) {
-            toplamFiyat *= 0.9;
+            toplamFiyat *= 0.9; // %10 İndirim Uygulandı.
         } else if (yas > 65) {
-            toplamFiyat *= 0.7;
+            toplamFiyat *= 0.7; // %30 İndirim Uygulandı.
         }
-
+        //Yolculuk Tipine Göre indirim.
         if (tip == 2) {
             toplamFiyat *= 2;
             toplamFiyat *= 0.8;
