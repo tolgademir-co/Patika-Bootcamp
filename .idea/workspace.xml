@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="UçakBiletiFiyatHesaplama.java yeni eklendi">
-      <change afterPath="$PROJECT_DIR$/src/week1/ArtikYilHesaplama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/CinZodyagiHesaplama.java" afterDir="false" />
+    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="aritmetik ödevi yapıldı">
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week1/MukemmelSayıBulanProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week1/SayılarınMinveMaxDegeriniBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week1/TersUcgenYapımı.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/ManavKasaProgramı.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/UcakBiletiFiyatHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/UcakBiletiFiyatHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/CinZodyagiHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/CinZodyagiHesaplama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AritmetikIslemler.executor": "Run",
+    "Application.Aritmetiklslemler.executor": "Run",
     "Application.ArtikYilHesaplama.executor": "Run",
     "Application.Bölme.executor": "Run",
     "Application.CinZodayagıHesaplama.executor": "Run",
@@ -56,6 +59,9 @@
     "Application.ManavHesaplama.executor": "Run",
     "Application.ManavKasaProgrami.executor": "Run",
     "Application.ManavKasaProgramı.executor": "Run",
+    "Application.MukemmelSayıBulanProgram.executor": "Run",
+    "Application.SayılarınMinveMaxDegeriniBulma.executor": "Run",
+    "Application.TersUcgenYapımı.executor": "Run",
     "Application.Toplama.executor": "Run",
     "Application.UcakBiletiFiyatHesaplama.executor": "Run",
     "Application.UçakBiletiFiyatHesaplama.executor": "Run",
@@ -65,6 +71,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/tlgad/IdeaProjects/Patika-Bootcamp/src/Main.java",
     "project.structure.last.edited": "Modules",
@@ -78,9 +85,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArtikYilHesaplama">
-    <configuration name="ArtikYilHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.ArtikYilHesaplama" />
+  <component name="RunManager" selected="Application.TersUcgenYapımı">
+    <configuration name="Aritmetiklslemler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.Aritmetiklslemler" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManavKasaProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.ManavKasaProgrami" />
+    <configuration name="MukemmelSayıBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.MukemmelSayıBulanProgram" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UcakBiletiFiyatHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.UcakBiletiFiyatHesaplama" />
+    <configuration name="SayılarınMinveMaxDegeriniBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.SayılarınMinveMaxDegeriniBulma" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Çarpma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Çarpma" />
+    <configuration name="TersUcgenYapımı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.TersUcgenYapımı" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArtikYilHesaplama" />
-        <item itemvalue="Application.ManavKasaProgrami" />
+        <item itemvalue="Application.TersUcgenYapımı" />
+        <item itemvalue="Application.MukemmelSayıBulanProgram" />
         <item itemvalue="Application.CinZodyagiHesaplama" />
-        <item itemvalue="Application.UcakBiletiFiyatHesaplama" />
-        <item itemvalue="Application.Çarpma" />
+        <item itemvalue="Application.SayılarınMinveMaxDegeriniBulma" />
+        <item itemvalue="Application.Aritmetiklslemler" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +233,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752790222403</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="UçakBiletiFiyatHesaplama.java yeni eklendi">
+      <option name="closed" value="true" />
+      <created>1752867295100</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752867295100</updated>
+    </task>
+    <task id="LOCAL-00010" summary="aritmetik ödevi yapıldı">
+      <option name="closed" value="true" />
+      <created>1753048114087</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753048114087</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,6 +260,7 @@
     <MESSAGE value="düzenlendi." />
     <MESSAGE value="yeni ödevler eklendi." />
     <MESSAGE value="UçakBiletiFiyatHesaplama.java yeni eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="UçakBiletiFiyatHesaplama.java yeni eklendi" />
+    <MESSAGE value="aritmetik ödevi yapıldı" />
+    <option name="LAST_COMMIT_MESSAGE" value="aritmetik ödevi yapıldı" />
   </component>
 </project>

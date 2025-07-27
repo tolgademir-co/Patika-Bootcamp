@@ -59,6 +59,5 @@ public class CinZodyagiHesaplama {
             System.out.println("Çin Zodyağı Burcunuz: " + zodyak);
 
         input.close();
-
     }
 }
