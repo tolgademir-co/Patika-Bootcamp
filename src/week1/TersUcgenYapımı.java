@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TersUcgenYapımı {
 
-    /* ÖRNEK ŞEMADIR (PROGRAMI İYİ ANLAMAMIZ AÇIŞINDAN)
+    /* ÖRNEK (PROGRAMI DAHA İYİ ANLAMAMIZ İÇİN)
 
     *********   1           0               9
      *******    2           1               7
