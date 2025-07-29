@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="güncel ödevler eklendi.">
-      <change afterPath="$PROJECT_DIR$/src/week1/MatrisTranspozunuBulma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="MatrisTranspozunuBulma ödevi eklendi">
+      <change afterPath="$PROJECT_DIR$/src/week1/TipDonusumleriCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +60,7 @@
     "Application.MukemmelSayıBulanProgram.executor": "Run",
     "Application.SayılarınMinveMaxDegeriniBulma.executor": "Run",
     "Application.TersUcgenYapımı.executor": "Run",
+    "Application.TipDonusumleriCasting.executor": "Run",
     "Application.Toplama.executor": "Run",
     "Application.UcakBiletiFiyatHesaplama.executor": "Run",
     "Application.UçakBiletiFiyatHesaplama.executor": "Run",
@@ -84,20 +84,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MatrisTranspozunuBulma">
-    <configuration name="CinZodyagiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.CinZodyagiHesaplama" />
-      <module name="Patika-Bootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TipDonusumleriCasting">
     <configuration name="MatrisTranspozunuBulma (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MatrisTranspozunuBulma" />
       <module name="Patika-Bootcamp" />
@@ -144,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TipDonusumleriCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.TipDonusumleriCasting" />
+      <module name="Patika-Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TipDonusumleriCasting" />
         <item itemvalue="Application.MatrisTranspozunuBulma" />
         <item itemvalue="Application.MatrisTranspozunuBulma (1)" />
         <item itemvalue="Application.TersUcgenYapımı" />
         <item itemvalue="Application.MukemmelSayıBulanProgram" />
-        <item itemvalue="Application.CinZodyagiHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753643128328</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="MatrisTranspozunuBulma ödevi eklendi">
+      <option name="closed" value="true" />
+      <created>1753732743221</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1753732743221</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,6 +279,7 @@
     <MESSAGE value="UçakBiletiFiyatHesaplama.java yeni eklendi" />
     <MESSAGE value="aritmetik ödevi yapıldı" />
     <MESSAGE value="güncel ödevler eklendi." />
-    <option name="LAST_COMMIT_MESSAGE" value="güncel ödevler eklendi." />
+    <MESSAGE value="MatrisTranspozunuBulma ödevi eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="MatrisTranspozunuBulma ödevi eklendi" />
   </component>
 </project>
