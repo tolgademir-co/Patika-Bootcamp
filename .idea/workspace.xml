@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="MatrisTranspozunuBulma ödevi eklendi">
-      <change afterPath="$PROJECT_DIR$/src/week2/GecerliSifreKontrolu.java" afterDir="false" />
+    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="GecerliSifreKontrolu ödevi eklendi!!">
+      <change afterPath="$PROJECT_DIR$/src/week2/SayıYuvarlama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/TipDonusumleriCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/TipDonusumleriCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Application.MatrisTranspozunuBulma (1).executor": "Run",
     "Application.MatrisTranspozunuBulma.executor": "Run",
     "Application.MukemmelSayıBulanProgram.executor": "Run",
+    "Application.SayıYuvarlama.executor": "Run",
     "Application.SayılarınMinveMaxDegeriniBulma.executor": "Run",
     "Application.TersUcgenYapımı.executor": "Run",
     "Application.TipDonusumleriCasting.executor": "Run",
@@ -86,7 +86,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TipDonusumleriCasting">
+  <component name="RunManager" selected="Application.SayıYuvarlama">
     <configuration name="GecerliSifreKontrolu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.GecerliSifreKontrolu" />
       <module name="Patika-Bootcamp" />
@@ -120,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TersUcgenYapımı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.TersUcgenYapımı" />
+    <configuration name="SayıYuvarlama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.SayıYuvarlama" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SayıYuvarlama" />
         <item itemvalue="Application.TipDonusumleriCasting" />
         <item itemvalue="Application.GecerliSifreKontrolu" />
         <item itemvalue="Application.MatrisTranspozunuBulma" />
         <item itemvalue="Application.MatrisTranspozunuBulma (1)" />
-        <item itemvalue="Application.TersUcgenYapımı" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753816460829</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="GecerliSifreKontrolu ödevi eklendi!!">
+      <option name="closed" value="true" />
+      <created>1754235453510</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1754235453510</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -290,6 +298,7 @@
     <MESSAGE value="aritmetik ödevi yapıldı" />
     <MESSAGE value="güncel ödevler eklendi." />
     <MESSAGE value="MatrisTranspozunuBulma ödevi eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="MatrisTranspozunuBulma ödevi eklendi" />
+    <MESSAGE value="GecerliSifreKontrolu ödevi eklendi!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="GecerliSifreKontrolu ödevi eklendi!!" />
   </component>
 </project>
