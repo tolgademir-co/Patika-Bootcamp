@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="MatrisTranspozunuBulma ödevi eklendi">
-      <change afterPath="$PROJECT_DIR$/src/week1/TipDonusumleriCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/GecerliSifreKontrolu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/TipDonusumleriCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/TipDonusumleriCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Application.Bölme.executor": "Run",
     "Application.CinZodayagıHesaplama.executor": "Run",
     "Application.CinZodyagiHesaplama.executor": "Run",
+    "Application.GecerliSifreKontrolu.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ManavHesaplama.executor": "Run",
     "Application.ManavKasaProgrami.executor": "Run",
@@ -85,6 +87,19 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.TipDonusumleriCasting">
+    <configuration name="GecerliSifreKontrolu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.GecerliSifreKontrolu" />
+      <module name="Patika-Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MatrisTranspozunuBulma (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MatrisTranspozunuBulma" />
       <module name="Patika-Bootcamp" />
@@ -94,19 +109,6 @@
     </configuration>
     <configuration name="MatrisTranspozunuBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.MatrisTranspozunuBulma" />
-      <module name="Patika-Bootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MukemmelSayıBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.MukemmelSayıBulanProgram" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -147,10 +149,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TipDonusumleriCasting" />
+        <item itemvalue="Application.GecerliSifreKontrolu" />
         <item itemvalue="Application.MatrisTranspozunuBulma" />
         <item itemvalue="Application.MatrisTranspozunuBulma (1)" />
         <item itemvalue="Application.TersUcgenYapımı" />
-        <item itemvalue="Application.MukemmelSayıBulanProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753732743221</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="MatrisTranspozunuBulma ödevi eklendi">
+      <option name="closed" value="true" />
+      <created>1753816460829</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753816460829</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
