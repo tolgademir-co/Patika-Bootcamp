@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="GecerliSifreKontrolu ödevi eklendi!!">
-      <change afterPath="$PROJECT_DIR$/src/week2/SayıYuvarlama.java" afterDir="false" />
+    <list default="true" id="5ffbfbd0-1482-4739-a072-fc476c44c400" name="Changes" comment="yeni ödev eklendi!! SayıYuvarlama.java">
+      <change afterPath="$PROJECT_DIR$/src/week2/AsalSayıBulanProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/CarpımTablosu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,9 @@
     "Application.AritmetikIslemler.executor": "Run",
     "Application.Aritmetiklslemler.executor": "Run",
     "Application.ArtikYilHesaplama.executor": "Run",
+    "Application.AsalSayıBulanProgram.executor": "Run",
     "Application.Bölme.executor": "Run",
+    "Application.CarpımTablosu.executor": "Run",
     "Application.CinZodayagıHesaplama.executor": "Run",
     "Application.CinZodyagiHesaplama.executor": "Run",
     "Application.GecerliSifreKontrolu.executor": "Run",
@@ -86,9 +89,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SayıYuvarlama">
-    <configuration name="GecerliSifreKontrolu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.GecerliSifreKontrolu" />
+  <component name="RunManager" selected="Application.CarpımTablosu">
+    <configuration name="AsalSayıBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.AsalSayıBulanProgram" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -100,19 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrisTranspozunuBulma (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MatrisTranspozunuBulma" />
+    <configuration name="CarpımTablosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.CarpımTablosu" />
       <module name="Patika-Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrisTranspozunuBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.MatrisTranspozunuBulma" />
+    <configuration name="GecerliSifreKontrolu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.GecerliSifreKontrolu" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarpımTablosu" />
+        <item itemvalue="Application.AsalSayıBulanProgram" />
         <item itemvalue="Application.SayıYuvarlama" />
         <item itemvalue="Application.TipDonusumleriCasting" />
         <item itemvalue="Application.GecerliSifreKontrolu" />
-        <item itemvalue="Application.MatrisTranspozunuBulma" />
-        <item itemvalue="Application.MatrisTranspozunuBulma (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754235453510</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="yeni ödev eklendi!! SayıYuvarlama.java">
+      <option name="closed" value="true" />
+      <created>1754238800563</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1754238800563</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -299,6 +316,7 @@
     <MESSAGE value="güncel ödevler eklendi." />
     <MESSAGE value="MatrisTranspozunuBulma ödevi eklendi" />
     <MESSAGE value="GecerliSifreKontrolu ödevi eklendi!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="GecerliSifreKontrolu ödevi eklendi!!" />
+    <MESSAGE value="yeni ödev eklendi!! SayıYuvarlama.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="yeni ödev eklendi!! SayıYuvarlama.java" />
   </component>
 </project>
