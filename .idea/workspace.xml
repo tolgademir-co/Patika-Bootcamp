@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25262267-2e78-441d-a3de-029c1fb6bc04" name="Changes" comment="29.08.2025 !! LetterFrequency - eklendi">
-      <change afterPath="$PROJECT_DIR$/src/week3/GenericArrayPrinterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/GenericMetotExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +45,16 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.GenericArrayPrinter.executor": "Run",
-    "Application.GenericArrayPrinterTest.executor": "Run",
-    "Application.GenericMetotExample.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GenericArrayPrinter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericArrayPrinterTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericMetotExample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.GenericMetotExample">
     <configuration name="GenericArrayPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.GenericArrayPrinterTest" />
@@ -123,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756483422617</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="29.08.2025 !! LetterFrequency - eklendi">
+      <option name="closed" value="true" />
+      <created>1756498952597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756498952597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
