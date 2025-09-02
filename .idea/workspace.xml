@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25262267-2e78-441d-a3de-029c1fb6bc04" name="Changes" comment="01.09.2025 !! Enums,Inner,Records - eklendi">
+      <change afterPath="$PROJECT_DIR$/src/week5/Lambdas/NumberPrecessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/MethodReference/MethodMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week5/Enums/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/Enums/Day.java" afterDir="false" />
     </list>
@@ -47,28 +49,30 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.EmployeeExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericArrayPrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericArrayPrinterTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericMetotExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScheduleApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WorkScheduleManager.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tlgad/IdeaProjects/Patika-Bootcamp&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EmployeeExample.executor": "Run",
+    "Application.EmployeeTest.executor": "Run",
+    "Application.GenericArrayPrinter.executor": "Run",
+    "Application.GenericArrayPrinterTest.executor": "Run",
+    "Application.GenericMetotExample.executor": "Run",
+    "Application.MethodMain.executor": "Run",
+    "Application.NumberPrecessor.executor": "Run",
+    "Application.ScheduleApp.executor": "Run",
+    "Application.StudentExample.executor": "Run",
+    "Application.WorkScheduleManager.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/tlgad/IdeaProjects/Patika-Bootcamp"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="week5.InnerClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentExample">
+  <component name="RunManager" selected="Application.NamesPrinter">
     <configuration name="EmployeeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week5.InnerClasses.EmployeeExample" />
       <module name="Patika-Bootcamp" />
@@ -82,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericArrayPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.GenericArrayPrinterTest" />
+    <configuration name="NamesPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.MethodReference.NamesPrinter" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3.*" />
+          <option name="PATTERN" value="week5.MethodReference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericMetotExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.GenericMetotExample" />
+    <configuration name="NumberPrecessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.Lambdas.NumberPrecessor" />
       <module name="Patika-Bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3.*" />
+          <option name="PATTERN" value="week5.Lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NamesPrinter" />
+        <item itemvalue="Application.NumberPrecessor" />
         <item itemvalue="Application.StudentExample" />
         <item itemvalue="Application.EmployeeExample" />
         <item itemvalue="Application.WorkScheduleManager" />
-        <item itemvalue="Application.GenericMetotExample" />
-        <item itemvalue="Application.GenericArrayPrinterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756751142091</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="01.09.2025 !! Enums,Inner,Records - eklendi">
+      <option name="closed" value="true" />
+      <created>1756814319572</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756814319572</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

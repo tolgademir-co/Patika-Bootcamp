@@ -21,7 +21,6 @@ public enum Day {
     // Çalışma saatini döndüren metot
     public String getWorkHours() {
         return workHours;
-    }
 
-    Thread.
+    }
 }
