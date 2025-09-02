@@ -22,4 +22,6 @@ public enum Day {
     public String getWorkHours() {
         return workHours;
     }
+
+    Thread.
 }
