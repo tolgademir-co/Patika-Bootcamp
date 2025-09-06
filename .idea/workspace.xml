@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25262267-2e78-441d-a3de-029c1fb6bc04" name="Changes" comment="01.09.2025 !! SQL Homework-1 - eklendi">
-      <change afterPath="$PROJECT_DIR$/src/week6/Homework-2" afterDir="false" />
+    <list default="true" id="25262267-2e78-441d-a3de-029c1fb6bc04" name="Changes" comment="01.09.2025 !! SQL Homework-2 - eklendi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/Homework-1" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/Homework-1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757105679005</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="01.09.2025 !! SQL Homework-2 - eklendi">
+      <option name="closed" value="true" />
+      <created>1757188091658</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757188091658</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,6 +243,7 @@
     <MESSAGE value="01.09.2025 !! Enums,Inner,Records - eklendi" />
     <MESSAGE value="01.09.2025 !! NumberPrecessor, NamesPrinter - eklendi" />
     <MESSAGE value="01.09.2025 !! SQL Homework-1 - eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="01.09.2025 !! SQL Homework-1 - eklendi" />
+    <MESSAGE value="01.09.2025 !! SQL Homework-2 - eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="01.09.2025 !! SQL Homework-2 - eklendi" />
   </component>
 </project>
