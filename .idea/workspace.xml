@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25262267-2e78-441d-a3de-029c1fb6bc04" name="Changes" comment="01.09.2025 !! SQLHomework10 - eklendi">
-      <change afterPath="$PROJECT_DIR$/src/week6/SQLHomework/Homework-11" afterDir="false" />
+    <list default="true" id="25262267-2e78-441d-a3de-029c1fb6bc04" name="Changes" comment="01.09.2025 !! SQLHomework11 - eklendi">
+      <change afterPath="$PROJECT_DIR$/src/week6/SQLHomework/Homework12" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -295,7 +295,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757440454374</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="01.09.2025 !! SQLHomework11 - eklendi">
+      <option name="closed" value="true" />
+      <created>1757443082897</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757443082897</updated>
+    </task>
+    <task id="LOCAL-00019" summary="01.09.2025 !! SQLHomework11 - eklendi">
+      <option name="closed" value="true" />
+      <created>1757443670208</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757443670208</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -311,6 +327,7 @@
     <MESSAGE value="01.09.2025 !! SQLHomework8 - eklendi" />
     <MESSAGE value="01.09.2025 !! SQLHomework9 - eklendi" />
     <MESSAGE value="01.09.2025 !! SQLHomework10 - eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="01.09.2025 !! SQLHomework10 - eklendi" />
+    <MESSAGE value="01.09.2025 !! SQLHomework11 - eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="01.09.2025 !! SQLHomework11 - eklendi" />
   </component>
 </project>
